@@ -106,5 +106,9 @@
   "bugs": {
     "url": "https://github.com/luisagarrozi/Planet-Finder/issues"
   },
-  "homepage": "https://github.com/luisagarrozi/Planet-Finder#readme"
+  "homepage": "https://github.com/luisagarrozi/Planet-Finder#readme",
+  "devDependencies": {
+    "jest": "^29.2.1",
+    "supertest": "^6.3.0"
+  }
 }
